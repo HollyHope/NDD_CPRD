@@ -1,0 +1,214 @@
+readcode,desc,cerebral_palsy,epi,autism_asd,int_disability,adhd
+F23y400,Ataxic diplegic cerebral palsy,1,0,0,0,0
+G669.00,"Cerebral palsy, not congenital or infantile, acute",1,0,0,0,0
+F137.11,Athetoid cerebral palsy,1,0,0,0,0
+F23..00,Congenital cerebral palsy,1,0,0,0,0
+F2B1.00,Spastic hemiplegic cerebral palsy,1,0,0,0,0
+F23y000,Ataxic infantile cerebral palsy,1,0,0,0,0
+F2Bz.00,Cerebral palsy NOS,1,0,0,0,0
+F23y300,Dyskinetic cerebral palsy,1,0,0,0,0
+F23y200,Spastic cerebral palsy,1,0,0,0,0
+F23yz00,Other infantile cerebral palsy NOS,1,0,0,0,0
+Fyu9000,[X]Other infantile cerebral palsy,1,0,0,0,0
+1295.00,FH: Infantile cerebral palsy,1,0,0,0,0
+F23y.00,Other congenital cerebral palsy,1,0,0,0,0
+F23..12,Infantile cerebral palsy,1,0,0,0,0
+F230100,Cerebral palsy with spastic diplegia,1,0,0,0,0
+F23y100,Flaccid infantile cerebral palsy,1,0,0,0,0
+F2B..00,Cerebral palsy,1,0,0,0,0
+F23y600,Choreoathetoid cerebral palsy,1,0,0,0,0
+F2B0.00,Spastic quadriplegic cerebral palsy,1,0,0,0,0
+F2By.00,Other cerebral palsy,1,0,0,0,0
+F137000,Athetoid cerebral palsy,1,0,0,0,0
+Fyu9.00,[X]Cerebral palsy and other paralytic syndromes,1,0,0,0,0
+F23z.00,Congenital cerebral palsy NOS,1,0,0,0,0
+F230111,Spastic diplegic cerebral palsy,1,0,0,0,0
+F23..11,Congenital spastic cerebral palsy,1,0,0,0,0
+F25y400,Benign Rolandic epilepsy,0,1,0,0,0
+F25F.00,Photosensitive epilepsy,0,1,0,0,0
+8BIF.00,Epilepsy medication review,0,1,0,0,0
+667C.00,Epilepsy control good,0,1,0,0,0
+667M.00,Epilepsy management plan given,0,1,0,0,0
+Fyu5000,[X]Other generalized epilepsy and epileptic syndromes,0,1,0,0,0
+667K.00,Epilepsy limits activities,0,1,0,0,0
+F255500,Unilateral epilepsy,0,1,0,0,0
+F254100,Psychomotor epilepsy,0,1,0,0,0
+F250400,Juvenile absence epilepsy,0,1,0,0,0
+8Hlp.00,Referral to epilepsy clinic,0,1,0,0,0
+F255400,Visual reflex epilepsy,0,1,0,0,0
+9Of5.00,Epilepsy monitoring call first letter,0,1,0,0,0
+F132100,Progressive myoclonic epilepsy,0,1,0,0,0
+67AF.00,Pregnancy advice for patients with epilepsy,0,1,0,0,0
+U606600,[X]Oth unspec antiepileptics caus adverse eff in therap use,0,1,0,0,0
+F25A.00,Juvenile myoclonic epilepsy,0,1,0,0,0
+F251100,Neonatal myoclonic epilepsy,0,1,0,0,0
+SC20000,Traumatic epilepsy,0,1,0,0,0
+1JA0.00,Suspected epilepsy,0,1,0,0,0
+Eu05212,[X]Schizophrenia-like psychosis in epilepsy,0,1,0,0,0
+6110.00,Contraceptive advice for patients with epilepsy,0,1,0,0,0
+6672.00,Follow-up epilepsy assessment,0,1,0,0,0
+F25y300,Complex partial status epilepticus,0,1,0,0,0
+9h6..00,Exception reporting: epilepsy quality indicators,0,1,0,0,0
+6679.00,Epilepsy treatment started,0,1,0,0,0
+9Of6.00,Epilepsy monitoring call second letter,0,1,0,0,0
+F250z00,Generalised nonconvulsive epilepsy NOS,0,1,0,0,0
+6674.00,Epilepsy associated problems,0,1,0,0,0
+667L.00,Epilepsy does not limit activities,0,1,0,0,0
+667J.00,Epilepsy impairs education,0,1,0,0,0
+9Of7.00,Epilepsy monitoring call third letter,0,1,0,0,0
+F255100,Sensory induced epilepsy,0,1,0,0,0
+1B1W.00,Transient epileptic amnesia,0,1,0,0,0
+F25E.00,Stress-induced epilepsy,0,1,0,0,0
+1O30.00,Epilepsy confirmed,0,1,0,0,0
+8IAh.00,Pre-conception advice for patients with epilepsy declined,0,1,0,0,0
+Fyu5100,[X]Other epilepsy,0,1,0,0,0
+8T0L.00,Referral to epilepsy service,0,1,0,0,0
+F251z00,Generalised convulsive epilepsy NOS,0,1,0,0,0
+R003211,[D]Fit (in non epileptic) NOS,0,1,0,0,0
+667..00,Epilepsy monitoring,0,1,0,0,0
+F254.00,Partial epilepsy with impairment of consciousness,0,1,0,0,0
+F25..00,Epilepsy,0,1,0,0,0
+1473.00,H/O: epilepsy,0,1,0,0,0
+667X.00,No epilepsy drug side effects,0,1,0,0,0
+F254200,Psychosensory epilepsy,0,1,0,0,0
+F25z.00,Epilepsy NOS,0,1,0,0,0
+1296.00,FH: Epilepsy,0,1,0,0,0
+F254400,Epileptic automatism,0,1,0,0,0
+F25X.00,"Status epilepticus, unspecified",0,1,0,0,0
+F25y000,Cursive (running) epilepsy,0,1,0,0,0
+8IB2.00,Contraceptiv advice for patients with epilepsy not indicated,0,1,0,0,0
+F250200,Epileptic seizures - atonic,0,1,0,0,0
+6677.00,Epilepsy drug side effects,0,1,0,0,0
+F254000,Temporal lobe epilepsy,0,1,0,0,0
+F250.00,Generalised nonconvulsive epilepsy,0,1,0,0,0
+F251.00,Generalised convulsive epilepsy,0,1,0,0,0
+667N.00,Epilepsy severity,0,1,0,0,0
+Fyu5900,"[X]Status epilepticus, unspecified",0,1,0,0,0
+9Of3.00,Epilepsy monitoring verbal invite,0,1,0,0,0
+F257.00,Kojevnikov's epilepsy,0,1,0,0,0
+67IJ000,Pre-conception advice for patients with epilepsy,0,1,0,0,0
+F251300,Epileptic seizures - myoclonic,0,1,0,0,0
+F255012,Motor epilepsy,0,1,0,0,0
+F251400,Epileptic seizures - tonic,0,1,0,0,0
+F255600,Simple partial epileptic seizure,0,1,0,0,0
+F255y00,Partial epilepsy without impairment of consciousness OS,0,1,0,0,0
+9N0r.00,Seen in epilepsy clinic,0,1,0,0,0
+F250100,Pykno-epilepsy,0,1,0,0,0
+F254z00,Partial epilepsy with impairment of consciousness NOS,0,1,0,0,0
+667H.00,Epilepsy prevents employment,0,1,0,0,0
+F25yz00,Other forms of epilepsy NOS,0,1,0,0,0
+F259.00,Early infant epileptic encephalopathy wth suppression bursts,0,1,0,0,0
+F255311,Partial epilepsy with autonomic symptoms,0,1,0,0,0
+667B.00,Nocturnal epilepsy,0,1,0,0,0
+Fyu5200,[X]Other status epilepticus,0,1,0,0,0
+F253.11,Status epilepticus,0,1,0,0,0
+8IB3.00,Pre-conception advic fr patients with epilepsy not indicated,0,1,0,0,0
+Eu80300,[X]Acquired aphasia with epilepsy [Landau - Kleffner],0,1,0,0,0
+F25y.00,Other forms of epilepsy,0,1,0,0,0
+9N4V.00,DNA - Did not attend epilepsy clinic,0,1,0,0,0
+Eu05y11,[X]Epileptic psychosis NOS,0,1,0,0,0
+F251000,Grand mal (major) epilepsy,0,1,0,0,0
+667W.00,Emergency epilepsy treatment since last appointment,0,1,0,0,0
+6678.00,Epilepsy treatment changed,0,1,0,0,0
+F255.00,Partial epilepsy without impairment of consciousness,0,1,0,0,0
+667Z.00,Epilepsy monitoring NOS,0,1,0,0,0
+F251200,Epileptic seizures - clonic,0,1,0,0,0
+667D.00,Epilepsy control poor,0,1,0,0,0
+F255011,Focal epilepsy,0,1,0,0,0
+F251y00,Other specified generalised convulsive epilepsy,0,1,0,0,0
+8IAi.00,Pregnancy advice for patients with epilepsy declined,0,1,0,0,0
+667G.00,Epilepsy restricts employment,0,1,0,0,0
+F25G.00,Severe myoclonic epilepsy in infancy,0,1,0,0,0
+F255200,Somatosensory epilepsy,0,1,0,0,0
+Eu06013,[X]Limbic epilepsy personality,0,1,0,0,0
+F250000,Petit mal (minor) epilepsy,0,1,0,0,0
+8IB4.00,Pregnancy advice for patients with epilepsy not indicated,0,1,0,0,0
+F25y200,Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset,0,1,0,0,0
+9h62.00,Excepted from epilepsy quality indicators: Informed dissent,0,1,0,0,0
+F25z.11,Fit (in known epileptic) NOS,0,1,0,0,0
+F254500,Complex partial epileptic seizure,0,1,0,0,0
+9Of2.00,Epilepsy screen invite 3,0,1,0,0,0
+6671.00,Initial epilepsy assessment,0,1,0,0,0
+667E.00,Epilepsy care arrangement,0,1,0,0,0
+F251500,Tonic-clonic epilepsy,0,1,0,0,0
+8IAg.00,Contraceptive advice for patients with epilepsy declined,0,1,0,0,0
+F254300,Limbic system epilepsy,0,1,0,0,0
+F250y00,Other specified generalised nonconvulsive epilepsy,0,1,0,0,0
+F250300,Epileptic seizures - akinetic,0,1,0,0,0
+F2C..00,Non-epileptic attack disorder,0,1,0,0,0
+F250011,Epileptic absences,0,1,0,0,0
+F25y100,Gelastic epilepsy,0,1,0,0,0
+F251011,Tonic-clonic epilepsy,0,1,0,0,0
+F255300,Visceral reflex epilepsy,0,1,0,0,0
+F25D.00,Menstrual epilepsy,0,1,0,0,0
+F255z00,Partial epilepsy without impairment of consciousness NOS,0,1,0,0,0
+F255000,"Jacksonian, focal or motor epilepsy",0,1,0,0,0
+9Of4.00,Epilepsy monitoring telephone invite,0,1,0,0,0
+ZS82.00,Acquired epileptic aphasia,0,1,0,0,0
+Eu84112,[X]Mental retardation with autistic features,0,0,1,1,0
+E140.13,Childhood autism,0,0,1,0,0
+Eu84500,[X]Asperger's syndrome,0,0,1,0,0
+Eu84011,[X]Autistic disorder,0,0,1,0,0
+E140100,Residual infantile autism,0,0,1,0,0
+E140z00,Infantile autism NOS,0,0,1,0,0
+Eu84z11,[X]Autistic spectrum disorder,0,0,1,0,0
+E140.12,Autism,0,0,1,0,0
+Eu84012,[X]Infantile autism,0,0,1,0,0
+Eu84100,[X]Atypical autism,0,0,1,0,0
+Eu84511,[X]Autistic psychopathy,0,0,1,0,0
+Eu84000,[X]Childhood autism,0,0,1,0,0
+9NNl.00,Under care of autism assessment service,0,0,1,0,0
+1J9..00,Suspected autism,0,0,1,0,0
+E140000,Active infantile autism,0,0,1,0,0
+E140.00,Infantile autism,0,0,1,0,0
+9N6q.00,Referred by autism assessment service,0,0,1,0,0
+Eu7y.00,[X]Other mental retardation,0,0,0,1,0
+Eu73.00,[X]Profound mental retardation,0,0,0,1,0
+1286.00,FH: Mental retardation,0,0,0,1,0
+E30..00,"Mild mental retardation, IQ in range 50-70",0,0,0,1,0
+Eu7yy00,"[X]Other mental retardation, other impairments of behaviour",0,0,0,1,0
+E3z..00,Mental retardation NOS,0,0,0,1,0
+E311.00,"Severe mental retardation, IQ in range 20-34",0,0,0,1,0
+Eu70.00,[X]Mild mental retardation,0,0,0,1,0
+E310.00,"Moderate mental retardation, IQ in range 35-49",0,0,0,1,0
+Eu71.00,[X]Moderate mental retardation,0,0,0,1,0
+E3...00,Mental retardation,0,0,0,1,0
+Eu7..00,[X]Mental retardation,0,0,0,1,0
+E31..00,Other specified mental retardation,0,0,0,1,0
+Eu72.00,[X]Severe mental retardation,0,0,0,1,0
+ZV79200,[V]Screening for mental retardation,0,0,0,1,0
+E2E0z00,Child attention deficit disorder NOS,0,0,0,0,1
+ZS94.00,Minimal brain dysfunction,0,0,0,0,1
+Eu90011,[X]Attention deficit hyperactivity disorder,0,0,0,0,1
+Eu90z11,[X]Hyperkinetic reaction of childhood or adolescence NOS,0,0,0,0,1
+Eu9y700,[X]Attention deficit disorder,0,0,0,0,1
+ZS91.12,[X]Attention deficit disorder,0,0,0,0,1
+E2E..11,Overactive child syndrome,0,0,0,0,1
+8BPT.00,Drug therapy ADHD (attention deficit hyperactivity disorder),0,0,0,0,1
+Eu90z12,[X]Hyperkinetic syndrome NOS,0,0,0,0,1
+6A61.00,Attention deficit hyperactivity disorder annual review,0,0,0,0,1
+ZS94.11,MBD - Minimal brain dysfunction,0,0,0,0,1
+E2E1.00,Hyperkinesis with developmental delay,0,0,0,0,1
+E2E0.00,Child attention deficit disorder,0,0,0,0,1
+Eu90y00,[X]Other hyperkinetic disorders,0,0,0,0,1
+E2E..00,Childhood hyperkinetic syndrome,0,0,0,0,1
+E2E0100,Attention deficit with hyperactivity,0,0,0,0,1
+ZS93.11,DAMP - Deficits in attention motor control and perception,0,0,0,0,1
+ZS93.00,Deficits in attention motor control and perception,0,0,0,0,1
+9Ngp.00,On drug ther ADHD (attention deficit hyperactivity disorder),0,0,0,0,1
+9Ol8.00,ADHD monitoring invitation first letter,0,0,0,0,1
+Eu90.00,[X]Hyperkinetic disorders,0,0,0,0,1
+ZS91.00,Attention deficit disorder,0,0,0,0,1
+E2E2.00,Hyperkinetic conduct disorder,0,0,0,0,1
+E2E0000,Attention deficit without hyperactivity,0,0,0,0,1
+E2Ez.00,Hyperkinetic syndrome NOS,0,0,0,0,1
+Eu90100,[X]Hyperkinetic conduct disorder,0,0,0,0,1
+ZS91.11,ADD - Attention deficit disorder,0,0,0,0,1
+E2Ey.00,Other hyperkinetic manifestation,0,0,0,0,1
+Eu90111,[X]Hyperkinetic disorder associated with conduct disorder,0,0,0,0,1
+Eu90000,[X]Disturbance of activity and attention,0,0,0,0,1
+ZS9..00,Disorders of attention and motor control,0,0,0,0,1
+1P00.00,Hyperactive behaviour,0,0,0,0,1
+8BPT000,Stimulant drug therapy for ADHD,0,0,0,0,1
+Eu90z00,"[X]Hyperkinetic disorder, unspecified",0,0,0,0,1
+9Ol9.00,ADHD monitoring invitation second letter,0,0,0,0,1
