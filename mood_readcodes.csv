@@ -1,0 +1,160 @@
+readcode,medcode,desc,list_type
+E135.00,1055,Agitated depression,Diagnoses
+E112.11,5879,Agitated depression,Diagnoses
+E290.00,1533,Brief depressive reaction,Diagnoses
+E2B1.00,4323,Chronic depression,Diagnoses
+212S.00,19439,Depression resolved,Diagnoses
+E2B..00,324,Depressive disorder NEC,Diagnoses
+E211200,10455,Depressive personality disorder,Diagnoses
+E11..12,2560,Depressive psychoses,Diagnoses
+E112.14,595,Endogenous depression,Diagnoses
+E113.11,6932,Endogenous depression - recurrent,Diagnoses
+E112.13,6950,Endogenous depression first episode,Diagnoses
+E112.12,6546,Endogenous depression first episode,Diagnoses
+1465,2716,H/O: depression,Diagnoses
+E11z200,9183,Masked depression,Diagnoses
+L184300,109465,Mental disorder during pregnancy - baby not yet delivered,Diagnoses
+L184400,100628,Mental disorder in puerperium - baby previously delivered,Diagnoses
+L184200,103283,Mental disorder in the puerperium - baby delivered,Diagnoses
+L184.00,46756,"Mental disorders in pregnancy, childbirth and the puerperium",Diagnoses
+E204.00,1131,Neurotic depression reactive type,Diagnoses
+E204.11,2639,Postnatal depression,Diagnoses
+E291.00,16632,Prolonged depressive reaction,Diagnoses
+62T1.00,2923,Puerperal depression,Diagnoses
+E130.00,8478,Reactive depressive psychosis,Diagnoses
+E113700,6482,Recurrent depression,Diagnoses
+E113.00,15099,Recurrent major depressive episode,Diagnoses
+E113z00,25563,Recurrent major depressive episode NOS,Diagnoses
+E113600,55384,"Recurrent major depressive episodes, in full remission",Diagnoses
+E113100,29342,"Recurrent major depressive episodes, mild",Diagnoses
+E113200,14709,"Recurrent major depressive episodes, moderate",Diagnoses
+E113300,25697,"Recurrent major depressive episodes, severe, no psychosis",Diagnoses
+E113500,56273,"Recurrent major depressive episodes,partial/unspec remission",Diagnoses
+E118.00,10825,Seasonal affective disorder,Diagnoses
+E112.00,10610,Single major depressive episode,Diagnoses
+E112z00,7011,Single major depressive episode NOS,Diagnoses
+E112600,57409,"Single major depressive episode, in full remission",Diagnoses
+E112100,16506,"Single major depressive episode, mild",Diagnoses
+E112200,15155,"Single major depressive episode, moderate",Diagnoses
+E112500,43324,"Single major depressive episode, partial or unspec remission",Diagnoses
+E112300,15219,"Single major depressive episode, severe, without psychosis",Diagnoses
+E112000,34390,"Single major depressive episode, unspecified",Diagnoses
+E03y300,2114,Unspecified puerperal psychosis,Diagnoses
+Eu32z14,5987,[X] Reactive depression NOS,Diagnoses
+Eu32B00,103677,[X]Antenatal depression,Diagnoses
+Eu34000,21540,[X]Cyclothymia,Diagnoses
+Eu32z11,543,[X]Depression NOS,Diagnoses
+Eu92000,32845,[X]Depressive conduct disorder,Diagnoses
+Eu32z12,3291,[X]Depressive disorder NOS,Diagnoses
+Eu32.00,4639,[X]Depressive episode,Diagnoses
+Eu32z00,2970,"[X]Depressive episode, unspecified",Diagnoses
+Eu34111,8584,[X]Depressive neurosis,Diagnoses
+Eu34100,7953,[X]Dysthymia,Diagnoses
+Eu33211,11329,[X]Endogenous depression without psychotic symptoms,Diagnoses
+Eu53.00,24927,[X]Mental and behav disorders assoc with the puerperium NEC,Diagnoses
+Eu15500,49879,[X]Mental/behav dis oth stims inc caffeine: psychotic dis,Diagnoses
+Eu32400,10667,[X]Mild depression,Diagnoses
+Eu32000,11717,[X]Mild depressive episode,Diagnoses
+Eu53000,40224,[X]Mild mental/behav disorder assoc with the puerperium NEC,Diagnoses
+Eu32100,9211,[X]Moderate depressive episode,Diagnoses
+Eu3..00,5726,[X]Mood - affective disorders,Diagnoses
+Eu32y00,6854,[X]Other depressive episodes,Diagnoses
+Eu3y.00,28008,[X]Other mood affective disorders,Diagnoses
+Eu3y000,50998,[X]Other single mood affective disorders,Diagnoses
+Eu3yy00,29579,[X]Other specified mood affective disorders,Diagnoses
+Eu34z00,39767,"[X]Persistent mood affective disorder, unspecified",Diagnoses
+Eu53011,13307,[X]Postnatal depression NOS,Diagnoses
+Eu53012,4979,[X]Postpartum depression NOS,Diagnoses
+Eu53z00,23642,"[X]Puerperal mental disorder, unspecified",Diagnoses
+Eu53111,17614,[X]Puerperal psychosis NOS,Diagnoses
+Eu33200,33469,[X]Recurr depress disorder cur epi severe without psyc sympt,Diagnoses
+Eu33313,32941,[X]Recurr severe episodes/major depression+psychotic symptom,Diagnoses
+Eu33.00,3292,[X]Recurrent depressive disorder,Diagnoses
+Eu33100,29520,"[X]Recurrent depressive disorder, current episode moderate",Diagnoses
+Eu33z00,44300,"[X]Recurrent depressive disorder, unspecified",Diagnoses
+Eu33.11,8851,[X]Recurrent episodes of depressive reaction,Diagnoses
+Eu33.12,19696,[X]Recurrent episodes of psychogenic depression,Diagnoses
+Eu33.13,8902,[X]Recurrent episodes of reactive depression,Diagnoses
+Eu33.15,8826,[X]SAD - Seasonal affective disorder,Diagnoses
+Eu32300,12099,[X]Severe depressive episode with psychotic symptoms,Diagnoses
+Eu32200,9667,[X]Severe depressive episode without psychotic symptoms,Diagnoses
+Eu53100,40500,[X]Severe mental and behav disorder assoc wth puerperium NEC,Diagnoses
+Eu32212,22806,[X]Single episode major depression w'out psychotic symptoms,Diagnoses
+Eu32.11,9055,[X]Single episode of depressive reaction,Diagnoses
+Eu32.12,18510,[X]Single episode of psychogenic depression,Diagnoses
+Eu32.13,7604,[X]Single episode of reactive depression,Diagnoses
+Eu3z.00,37090,[X]Unspecified mood affective disorder,Diagnoses
+Eu32y11,10720,[x]atypical depression,Diagnoses
+Eu33311,23731,[x]endogenous depression with psychotic symptoms,Diagnoses
+Eu32500,98346,"[x]major depression, mild",Diagnoses
+Eu32600,98252,"[x]major depression, moderately severe",Diagnoses
+Eu33212,11252,"[x]major depression, recurrent without psychotic symptoms",Diagnoses
+Eu32800,98417,"[x]major depression, severe with psychotic symptoms",Diagnoses
+Eu32700,98414,"[x]major depression, severe without psychotic symptoms",Diagnoses
+Eu3y011,30688,[x]mixed affective episode,Diagnoses
+Eu33z11,36616,[x]monopolar depression nos,Diagnoses
+Eu34113,7737,[x]neurotic depression,Diagnoses
+Eu34y00,50243,[x]other persistent mood affective disorders,Diagnoses
+Eu33y00,47731,[x]other recurrent depressive disorders,Diagnoses
+Eu3y100,29921,[x]other recurrent mood affective disorders,Diagnoses
+Eu34.00,42857,[x]persistent mood affective disorders,Diagnoses
+Eu20400,20785,[x]post-schizophrenic depression,Diagnoses
+Eu32z13,28248,[x]prolonged single episode of reactive depression,Diagnoses
+Eu32A00,101153,"[x]recurr major depr ep, severe with psych, psych in remiss",Diagnoses
+Eu33314,31757,[x]recurr severe episodes/psychogenic depressive psychosis,Diagnoses
+Eu3y111,19054,[x]recurrent brief depressive episodes,Diagnoses
+Eu33300,47009,[x]recurrent depress disorder cur epi severe with psyc symp,Diagnoses
+Eu33000,29784,"[x]recurrent depressive disorder, current episode mild",Diagnoses
+Eu33400,22116,"[x]recurrent depressive disorder, currently in remission",Diagnoses
+Eu33315,16861,[x]recurrent severe episodes of psychotic depression,Diagnoses
+Eu33316,37764,[x]recurrent severe episodes/reactive depressive psychosis,Diagnoses
+Eu33.14,28756,[x]seasonal depressive disorder,Diagnoses
+Eu32211,41989,[x]single episode agitated depressn w'out psychotic symptoms,Diagnoses
+Eu32311,24117,[x]single episode of major depression and psychotic symptoms,Diagnoses
+Eu32y12,56609,[x]single episode of masked depression nos,Diagnoses
+Eu32312,52678,[x]single episode of psychogenic depressive psychosis,Diagnoses
+Eu32313,24112,[x]single episode of psychotic depression,Diagnoses
+Eu32314,28863,[x]single episode of reactive depressive psychosis,Diagnoses
+Eu32213,59386,[x]single episode vital depression w'out psychotic symptoms,Diagnoses
+Eu32900,101054,"[x]single major depr ep, severe with psych, psych in remiss",Diagnoses
+Eu33214,73991,"[x]vital depression, recurrent without psychotic symptoms",Diagnoses
+E11y200,27491,atypical depressive disorder,Diagnoses
+E290z00,36246,brief depressive reaction nos,Diagnoses
+E2B0.00,2972,postviral depression,Diagnoses
+E113400,24171,"recurrent major depressive episodes, severe, with psychosis",Diagnoses
+E113000,35671,"recurrent major depressive episodes, unspecified",Diagnoses
+E112400,32159,"single major depressive episode, severe, with psychosis",Diagnoses
+,12749,Abnormal affect,Symptoms
+1B17.11,4824,C/O - feeling depressed,Symptoms
+1B17.12,2930,C/O - feeling unhappy,Symptoms
+,22264,C/O tearfulness,Symptoms
+,8063,C/O weepiness,Symptoms
+,2831,"Crying, excessive",Symptoms
+1B17.00,1996,Depressed,Symptoms
+1BT..00,10015,Depressed mood,Symptoms
+1B1U.11,10438,Depressive symptoms,Symptoms
+,3502,Emotional upset,Symptoms
+1BQ..00,25435,Loss of capacity for enjoyment,Symptoms
+1BU..00,53148,Loss of hope for the future,Symptoms
+1BT..11,8928,Low mood,Symptoms
+,6021,Mood swings,Symptoms
+2257,1908,O/E - depressed,Symptoms
+,3489,Rebound mood swings,Symptoms
+1BT..12,26028,Sad mood,Symptoms
+,1712,Suicidal ideation,Symptoms
+,4067,Suicidal plans,Symptoms
+,100977,Suspected depression,Symptoms
+1B1U.00,9796,Symptoms of depression,Symptoms
+,2893,Tearful,Symptoms
+,22687,[D]Unhappiness,Symptoms
+9H90.00,12399,Depression annual review,Service use
+9H92.00,30405,Depression interim review,Service use
+,44848,Depression management programme,Service use
+9H91.00,12122,Depression medication review,Service use
+9HA0.00,42931,On depression register,Service use
+8CAa.00,30483,Patient given advice about management of depression,Service use
+,18702,Postnatal depression counselling,Service use
+8HHq.00,32841,Referral for guided self-help for depression,Service use
+,97420,Referral to improving access to psychological therapies prog,Service use
+9HA1.00,44936,Removed from depression register,Service use
+9kQ..00,96995,on full dose long term treatment depression - enh serv admin,Service use

@@ -1,0 +1,341 @@
+readcode,medcode,desc,list_type
+E030000,25051,"Acute confusional state, post traumatic",Diagnoses
+E28..00,276,Acute reaction to stress,Diagnoses
+E283000,20245,Acute situational disturbance,Diagnoses
+E29..00,2826,Adjustment reaction,Diagnoses
+E293z00,104891,Adjustment reaction with predominant disturbance conduct NOS,Diagnoses
+E293.00,16415,Adjustment reaction with predominant disturbance of conduct,Diagnoses
+E202100,3076,Agoraphobia with panic attacks,Diagnoses
+E202200,12838,Agoraphobia without mention of panic attacks,Diagnoses
+E202700,28938,Animal phobia,Diagnoses
+E200z00,4534,Anxiety state NOS,Diagnoses
+E200000,6939,Anxiety state unspecified,Diagnoses
+E200.00,636,Anxiety states,Diagnoses
+E200300,655,Anxiety with depression,Diagnoses
+E290011,10734,Bereavement reaction,Diagnoses
+E202B00,1510,Cancer phobia,Diagnoses
+E200400,1758,Chronic anxiety,Diagnoses
+E202800,1723,Claustrophobia,Diagnoses
+E203000,5678,Compulsive neurosis,Diagnoses
+E202C00,2366,Dental phobia,Diagnoses
+E206.00,5305,Depersonalisation syndrome,Diagnoses
+E201A00,23490,Dissociative reaction unspecified,Diagnoses
+E202900,31672,Fear of crowds,Diagnoses
+E202D00,10390,Fear of death,Diagnoses
+E202A00,4167,Fear of flying,Diagnoses
+E202E00,6071,Fear of pregnancy,Diagnoses
+E28z.12,20802,Flying phobia,Diagnoses
+E200200,4659,Generalised anxiety disorder,Diagnoses
+E201612,4143,Globus hystericus,Diagnoses
+E290000,2775,Grief reaction,Diagnoses
+146G.00,11764,H/O: agoraphobia,Diagnoses
+E207.00,966,Hypochondriasis,Diagnoses
+E201.00,2188,Hysteria,Diagnoses
+E201100,3438,Hysterical blindness,Diagnoses
+E201500,16484,Hysterical seizures,Diagnoses
+E20z.11,791,Nervous breakdown,Diagnoses
+E205.00,3361,Neurasthenia - nervous debility,Diagnoses
+E2z..00,42410,Neuroses or other mental disorder NOS,Diagnoses
+E20z.00,14780,Neurotic disorder NOS,Diagnoses
+225J.00,19000,O/E - panic attack,Diagnoses
+E203100,2030,Obsessional neurosis,Diagnoses
+E203.00,3208,Obsessive-compulsive disorders,Diagnoses
+E201600,15431,Other conversion disorder,Diagnoses
+E2y..00,50106,Other specified neuroses or other mental disorders,Diagnoses
+E200111,462,Panic attack,Diagnoses
+E200100,4069,Panic disorder,Diagnoses
+E201C00,24525,Phantom pregnancy,Diagnoses
+E202000,2300,Phobia unspecified,Diagnoses
+E202.12,9944,Phobic anxiety,Diagnoses
+E202z00,14729,Phobic disorder NOS,Diagnoses
+E202.00,1907,Phobic disorders,Diagnoses
+E13y000,22117,Psychogenic stupor,Diagnoses
+E265100,20109,Psychogenic vaginismus,Diagnoses
+E26z.00,5067,Psychosomatic disorder NOS,Diagnoses
+E200500,4634,Recurrent anxiety,Diagnoses
+E202300,16199,"Social phobia, fear of eating in public",Diagnoses
+E202500,18603,"Social phobia, fear of public washing",Diagnoses
+E202.11,16638,Social phobic disorders,Diagnoses
+E20y000,15321,Somatization disorder,Diagnoses
+E031000,61238,"Subacute confusional state, post traumatic",Diagnoses
+E202z11,38543,Weight fixation,Diagnoses
+Eu43012,10535,[X]Acute reaction to stress,Diagnoses
+Eu43000,11607,[X]Acute stress reaction,Diagnoses
+Eu40000,2571,[X]Agoraphobia,Diagnoses
+Eu40011,16729,[X]Agoraphobia without history of panic disorder,Diagnoses
+Eu40212,18248,[X]Animal phobias,Diagnoses
+Eu41z00,23838,"[X]Anxiety disorder, unspecified",Diagnoses
+Eu41111,962,[X]Anxiety neurosis,Diagnoses
+Eu45211,12626,[X]Body dysmorphic disorder,Diagnoses
+Eu43014,21559,[X]Crisis state,Diagnoses
+Eu45212,30680,[X]Dysmorphophobia nondelusional,Diagnoses
+Eu46011,9656,[X]Fatigue syndrome,Diagnoses
+Eu41100,10344,[X]Generalized anxiety disorder,Diagnoses
+Eu43212,21197,[X]Grief reaction,Diagnoses
+Eu45213,24264,[X]Hypochondriacal neurosis,Diagnoses
+Eu41211,7749,[X]Mild anxiety depression,Diagnoses
+Eu41200,11913,[X]Mixed anxiety and depressive disorder,Diagnoses
+Eu42200,18399,[X]Mixed obsessional thoughts and acts,Diagnoses
+Eu45011,23704,[X]Multiple psychosomatic disorder,Diagnoses
+Eu40300,12508,[X]Needle phobia,Diagnoses
+Eu4..00,23808,"[X]Neurotic, stress - related and somoform disorders",Diagnoses
+Eu42.00,5304,[X]Obsessive - compulsive disorder,Diagnoses
+Eu42.12,21836,[X]Obsessive-compulsive neurosis,Diagnoses
+Eu41.00,5385,[X]Other anxiety disorders,Diagnoses
+Eu41011,6408,[X]Panic attack,Diagnoses
+Eu41000,8205,[X]Panic disorder [episodic paroxysmal anxiety],Diagnoses
+Eu40012,14890,[X]Panic disorder with agoraphobia,Diagnoses
+Eu41012,4081,[X]Panic state,Diagnoses
+Eu34114,15220,[X]Persistant anxiety depression,Diagnoses
+Eu40z11,7222,[X]Phobia NOS,Diagnoses
+Eu40z00,34064,"[X]Phobic anxiety disorder, unspecified",Diagnoses
+Eu40.00,9386,[X]Phobic anxiety disorders,Diagnoses
+Eu43100,4171,[X]Post - traumatic stress disorder,Diagnoses
+Eu42100,22019,[X]Predominantly compulsive acts [obsessional rituals],Diagnoses
+Eu42000,20634,[X]Predominantly obsessional thoughts or ruminations,Diagnoses
+Eu43015,7813,[X]Psychic shock,Diagnoses
+Eu45324,16560,[X]Psychogenic IBS,Diagnoses
+,37089,[X]Psychogenic dyspareunia,Diagnoses
+Eu45413,29329,[X]Psychogenic headache,Diagnoses
+Eu50y12,17203,[X]Psychogenic loss of appetite,Diagnoses
+Eu50411,17439,[X]Psychogenic overeating,Diagnoses
+,6796,[X]Psychogenic vomiting,Diagnoses
+Eu45z11,19242,[X]Psychosomatic disorder NOS,Diagnoses
+Eu43.00,11098,"[X]Reaction to severe stress, and adjustment disorders",Diagnoses
+Eu43z00,31515,"[X]Reaction to severe stress, unspecified",Diagnoses
+Eu40214,12635,[X]Simple phobia,Diagnoses
+Eu40100,11602,[X]Social phobias,Diagnoses
+Eu40200,9785,[X]Specific (isolated) phobias,Diagnoses
+Eu40211,67965,[x]acrophobia,Diagnoses
+Eu43011,36374,[x]acute crisis reaction,Diagnoses
+Eu43300,101785,[x]acute post-traumatic stress disorder follow military comb,Diagnoses
+Eu43200,11336,[x]adjustment disorders,Diagnoses
+Eu42.11,24251,[x]anankastic neurosis,Diagnoses
+Eu41y11,28167,[x]anxiety hysteria,Diagnoses
+Eu41z11,25638,[x]anxiety nos,Diagnoses
+Eu41112,35825,[x]anxiety reaction,Diagnoses
+Eu41113,50191,[x]anxiety state,Diagnoses
+Eu46y11,100116,[x]briquet's disorder,Diagnoses
+Eu45012,59682,[x]briquet's syndrome,Diagnoses
+Eu45311,44269,[x]cardiac neurosis,Diagnoses
+Eu43400,101725,[x]chron post-traumatic stress disorder follow military comb,Diagnoses
+Eu40213,11280,[x]claustrophobia,Diagnoses
+Eu43013,70779,[x]combat fatigue,Diagnoses
+Eu44.11,35311,[x]conversion hysteria,Diagnoses
+Eu44.12,52161,[x]conversion reaction,Diagnoses
+Eu43211,36228,[x]culture shock,Diagnoses
+Eu45312,32632,[x]da costa's syndrome,Diagnoses
+Eu46100,9265,[x]depersonalization - derealization syndrome,Diagnoses
+Eu46y12,47367,[x]dhat syndrome,Diagnoses
+Eu44z00,48906,"[x]dissociative [conversion] disorder, unspecified",Diagnoses
+Eu44.00,22136,[x]dissociative [conversion] disorders,Diagnoses
+Eu44000,40994,[x]dissociative amnesia,Diagnoses
+Eu44600,27633,[x]dissociative anaesthesia and sensory loss,Diagnoses
+Eu44500,56966,[x]dissociative convulsions,Diagnoses
+Eu44100,39826,[x]dissociative fugue,Diagnoses
+Eu44400,34978,[x]dissociative motor disorders,Diagnoses
+Eu44200,56141,[x]dissociative stupor,Diagnoses
+Eu44y11,46567,[x]ganser's syndrome,Diagnoses
+Eu45313,63259,[x]gastric neurosis,Diagnoses
+Eu45511,100086,[x]globus hystericus,Diagnoses
+Eu45y12,20906,[x]globus hystericus,Diagnoses
+Eu45500,12453,[x]globus pharyngeus,Diagnoses
+Eu45200,7537,[x]hypochondriacal disorder,Diagnoses
+Eu45214,10870,[x]hypochondriasis,Diagnoses
+Eu44.13,27588,[x]hysteria,Diagnoses
+Eu44.14,28168,[x]hysterical psychosis,Diagnoses
+Eu44700,88758,[x]mixed dissociative [conversion] disorders,Diagnoses
+Eu44y12,39919,[x]multiple personality,Diagnoses
+Eu46000,16561,[x]neurasthenia,Diagnoses
+Eu45314,50793,[x]neurocirculatory asthenia,Diagnoses
+Eu46z11,21431,[x]neurosis nos,Diagnoses
+Eu46z00,49628,"[x]neurotic disorder, unspecified",Diagnoses
+Eu45215,66806,[x]nosophobia,Diagnoses
+Eu42z00,22721,"[x]obsessive-compulsive disorder, unspecified",Diagnoses
+Eu46y13,11339,"[x]occupational neurosis, including writer's cramp",Diagnoses
+Eu44y00,64166,[x]other dissociative [conversion] disorders,Diagnoses
+Eu41300,44321,[x]other mixed anxiety disorders,Diagnoses
+Eu46.00,28090,[x]other neurotic disorders,Diagnoses
+Eu42y00,38809,[x]other obsessive-compulsive disorders,Diagnoses
+Eu40y00,27685,[x]other phobic anxiety disorders,Diagnoses
+Eu43y00,21753,[x]other reactions to severe stress,Diagnoses
+Eu45y00,62002,[x]other somatoform disorders,Diagnoses
+Eu41y00,24066,[x]other specified anxiety disorders,Diagnoses
+Eu46y00,44331,[x]other specified neurotic disorders,Diagnoses
+Eu45400,30179,[x]persistent somatoform pain disorder,Diagnoses
+Eu40z12,67898,[x]phobic state nos,Diagnoses
+Eu44511,11354,[x]pseudoseizures,Diagnoses
+Eu45411,54382,[x]psychalgia,Diagnoses
+Eu46y14,61753,[x]psychasthenia,Diagnoses
+Eu46y15,90597,[x]psychasthenia neurosis,Diagnoses
+Eu44411,12147,[x]psychogenic aphonia,Diagnoses
+Eu45412,38521,[x]psychogenic backache,Diagnoses
+Eu44y13,16988,[x]psychogenic confusion,Diagnoses
+Eu45316,12715,[x]psychogenic cough,Diagnoses
+Eu44611,50121,[x]psychogenic deafness,Diagnoses
+Eu45317,43316,[x]psychogenic diarrhoea,Diagnoses
+Eu45y11,46925,[x]psychogenic dysmenorrhoea,Diagnoses
+Eu45318,16714,[x]psychogenic dyspepsia,Diagnoses
+Eu44412,18801,[x]psychogenic dysphonia,Diagnoses
+Eu45319,53122,[x]psychogenic dysuria,Diagnoses
+Eu45320,47698,[x]psychogenic flatulence,Diagnoses
+Eu45323,17081,[x]psychogenic freq micturit,Diagnoses
+Eu45321,53737,[x]psychogenic hiccough,Diagnoses
+Eu45322,12830,[x]psychogenic hyperventilat,Diagnoses
+Eu45y13,16679,[x]psychogenic pruritis,Diagnoses
+Eu45325,93067,[x]psychogenic pylorospasm,Diagnoses
+Eu46y16,44586,[x]psychogenic syncope,Diagnoses
+Eu45y14,36009,[x]psychogenic torticollis,Diagnoses
+Eu44y14,68259,[x]psychogenic twilight state,Diagnoses
+Eu40112,42788,[x]social neurosis,Diagnoses
+Eu45000,24439,[x]somatization disorder,Diagnoses
+Eu45300,41038,[x]somatoform autonomic dysfunction,Diagnoses
+Eu45z00,48671,"[x]somatoform disorder, unspecified",Diagnoses
+Eu45.00,18049,[x]somatoform disorders,Diagnoses
+Eu45414,36040,[x]somatoform pain disorder,Diagnoses
+Eu45y15,47570,[x]teeth-grinding,Diagnoses
+Eu44300,39747,[x]trance and possession disorders,Diagnoses
+Eu43111,32182,[x]traumatic neurosis,Diagnoses
+Eu45111,34735,[x]undifferentiated psychosomatic disorder,Diagnoses
+Eu45100,57877,[x]undifferentiated somatoform disorder,Diagnoses
+E202600,28106,acrophobia,Diagnoses
+E281.00,42737,acute fugue state due to acute stress reaction,Diagnoses
+E131.00,29937,acute hysterical psychosis,Diagnoses
+E280.00,11940,acute panic state due to acute stress reaction,Diagnoses
+E283100,24847,acute posttrauma stress state,Diagnoses
+E28z.00,26138,acute stress reaction nos,Diagnoses
+E282.00,15551,acute stupor state due to acute stress reaction,Diagnoses
+E29y400,27390,adjustment reaction due to hospitalisation,Diagnoses
+E29z.00,37669,adjustment reaction nos,Diagnoses
+E293000,6075,adjustment reaction with aggression,Diagnoses
+E293100,35914,adjustment reaction with antisocial behaviour,Diagnoses
+E292400,56924,adjustment reaction with anxious mood,Diagnoses
+E293200,66398,adjustment reaction with destructiveness,Diagnoses
+E294.00,45603,adjustment reaction with disturbance emotion and conduct,Diagnoses
+E292z00,15665,adjustment reaction with disturbance of other emotion nos,Diagnoses
+E292y00,48588,adjustment reaction with mixed disturbance of emotion,Diagnoses
+E29y200,35632,adjustment reaction with physical symptoms,Diagnoses
+E292.00,24212,"adjustment reaction, predominant disturbance other emotions",Diagnoses
+E264011,23774,air swallowing - excessive,Diagnoses
+E203.11,47365,anancastic neurosis,Diagnoses
+E201z11,4105,aphonia - hysterical,Diagnoses
+E201611,46399,"astasia - abasia, hysterical",Diagnoses
+E201z12,24638,ataxia - hysterical,Diagnoses
+E20y011,56941,briquet's disorder,Diagnoses
+E26y000,10001,bruxism (teeth grinding),Diagnoses
+E262000,15292,cardiac neurosis,Diagnoses
+E28..11,43550,combat fatigue,Diagnoses
+E201B00,29322,compensation neurosis,Diagnoses
+E29y000,53362,concentration camp syndrome,Diagnoses
+E292500,58013,culture shock,Diagnoses
+E264200,2871,cyclical vomiting - psychogenic,Diagnoses
+E292200,54658,early adult emancipation disorder,Diagnoses
+E29y300,7716,elective mutism due to an adjustment reaction,Diagnoses
+E201511,33702,fit - hysterical,Diagnoses
+E201z13,40066,ganser's syndrome - hysterical,Diagnoses
+E264.11,37695,globus abdominalis,Diagnoses
+E201z00,23354,hysteria nos,Diagnoses
+E201000,41572,hysteria unspecified,Diagnoses
+E201700,4269,hysterical amnesia,Diagnoses
+E201200,44739,hysterical deafness,Diagnoses
+E201800,4775,hysterical fugue,Diagnoses
+E201400,34696,hysterical paralysis,Diagnoses
+E201300,23598,hysterical tremor,Diagnoses
+E201900,43302,multiple personality,Diagnoses
+E262200,15284,neurocirculatory asthenia,Diagnoses
+E20..00,5249,neurotic disorders,Diagnoses
+E2...00,9686,"neurotic, personality and other nonpsychotic disorders",Diagnoses
+E203z00,15566,obsessive-compulsive disorder nos,Diagnoses
+E283z00,29707,other acute stress reaction nos,Diagnoses
+E283.00,38640,other acute stress reactions,Diagnoses
+E29y500,19921,other adjustment reaction with withdrawal,Diagnoses
+E29y.00,41455,other adjustment reactions,Diagnoses
+E29yz00,23462,other adjustment reactions nos,Diagnoses
+E20yz00,43050,other neurotic disorder nos,Diagnoses
+E20y.00,42000,other neurotic disorders,Diagnoses
+E20y200,39518,other occupational neurosis,Diagnoses
+E29y100,32387,other post-traumatic stress disorder,Diagnoses
+E26y.00,62400,other psychogenic malfunction,Diagnoses
+E26yz00,96391,other psychogenic malfunction nos,Diagnoses
+ZS7C700,99609,post-traumatic mutism,Diagnoses
+E278.00,40311,psychalgia,Diagnoses
+E278z00,54373,psychalgia nos,Diagnoses
+E20y300,72171,psychasthenic neurosis,Diagnoses
+E264000,4963,psychogenic aerophagy,Diagnoses
+E261000,32034,psychogenic air hunger,Diagnoses
+E261500,41615,psychogenic aphonia,Diagnoses
+E278200,45205,psychogenic backache,Diagnoses
+E262300,30961,psychogenic cardiovascular disorder,Diagnoses
+E262z00,15034,psychogenic cardiovascular symptom nos,Diagnoses
+E262.00,29448,psychogenic cardiovascular symptoms,Diagnoses
+E264500,15939,psychogenic constipation,Diagnoses
+E261100,15483,psychogenic cough,Diagnoses
+E264300,15371,psychogenic diarrhoea,Diagnoses
+E265200,44547,psychogenic dysmenorrhea,Diagnoses
+E264400,3869,psychogenic dyspepsia,Diagnoses
+E265300,55781,psychogenic dysuria,Diagnoses
+E264z00,71437,psychogenic gastrointestinal tract symptom nos,Diagnoses
+E264.00,31422,psychogenic gastrointestinal tract symptoms,Diagnoses
+E265z00,73547,psychogenic genitourinary tract symptom nos,Diagnoses
+E265.00,68379,psychogenic genitourinary tract symptoms,Diagnoses
+E261200,47809,psychogenic hiccough,Diagnoses
+E261300,20053,psychogenic hyperventilation,Diagnoses
+E260.00,44212,psychogenic musculoskeletal symptoms,Diagnoses
+E260z00,15035,psychogenic musculoskeletal symptoms nos,Diagnoses
+E278000,53766,psychogenic pain unspecified,Diagnoses
+E260000,48561,psychogenic paralysis,Diagnoses
+E263000,15959,psychogenic pruritus,Diagnoses
+E261z00,34664,psychogenic respiratory symptom nos,Diagnoses
+E261.00,38134,psychogenic respiratory symptoms,Diagnoses
+E263.00,29461,psychogenic skin symptoms,Diagnoses
+E263z00,15224,psychogenic skin symptoms nos,Diagnoses
+E267.00,89237,psychogenic symptom of special sense organ,Diagnoses
+E260100,56800,psychogenic torticollis,Diagnoses
+E261400,23413,psychogenic yawning,Diagnoses
+E202400,31957,"social phobia, fear of public speaking",Diagnoses
+E292300,62193,specific academic or work inhibition,Diagnoses
+E292311,67304,specific academic or work inhibition,Diagnoses
+E292312,28302,specific work inhibition,Diagnoses
+E264311,10158,spurious diarrhoea,Diagnoses
+E28z.13,27742,stage fright,Diagnoses
+E284.00,23869,stress reaction causing mixed disturbance of emotion/conduct,Diagnoses
+E20y100,3685,writer's cramp neurosis,Diagnoses
+1B12.11,3586,'Nerves',Symptoms
+1B12.00,29608,'Nerves' - nervousness,Symptoms
+Z4I7.00,22159,Acknowledging anxiety,Symptoms
+Z4I7200,28381,Alleviating anxiety,Symptoms
+1B13.12,93401,Anxious,Symptoms
+1B13.00,131,Anxiousness,Symptoms
+1B13.11,5902,Anxiousness - symptom,Symptoms
+1B1V.00,11890,C/O - panic attack,Symptoms
+,22654,Compulsive behaviour,Symptoms
+,5347,Fear,Symptoms
+,26251,Flashbacks,Symptoms
+Z7CG400,11267,Flashbacks,Symptoms
+1466,3407,H/O: anxiety state,Symptoms
+1468,50083,H/O: psychological trauma,Symptoms
+2258,13124,O/E - anxious,Symptoms
+2259,8725,O/E - nervous,Symptoms
+,18494,Obsessional thoughts,Symptoms
+Z4I7100,62935,Recognising anxiety,Symptoms
+Z4I7211,26295,Reducing anxiety,Symptoms
+Z7CG500,53526,Reliving traumatic memories,Symptoms
+,11360,Social adjustment problem,Symptoms
+,18672,Specific fear,Symptoms
+,2585,Tenseness - symptom,Symptoms
+1B12.12,514,Tension - nervous,Symptoms
+E205.12,7235,Tired all the time,Symptoms
+,2524,Worried,Symptoms
+R2y2.11,17853,[D]Nerves,Symptoms
+R2y2.12,10723,[D]Nervous tension,Symptoms
+R2y2.00,2509,[D]Nervousness,Symptoms
+ZV15400,32668,[V]Personal history of psychological trauma,Symptoms
+E205.11,1582,nervous exhaustion,Symptoms
+Z4L1.00,7999,Anxiety counselling,Service use
+8G94.00,9125,Anxiety management training,Service use
+Z481.00,25749,Phobia counselling,Service use
+8HHp.00,28925,Referral for guided self-help for anxiety,Service use
+,97420,Referral to improving access to psychological therapies prog,Service use
+8G52.00,63521,antiphobic therapy,Service use
+E26..00,4199,Physiological malfunction arising from mental factors,TBD
+E28z.11,28129,examination fear,TBD
